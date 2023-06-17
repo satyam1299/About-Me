@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyam1299
-- 👀 I’m interested in debugging and making websites more attraction.
-- 📫 You can send me a mail 1209satyam@gmail.com or you can connect with me on Linkedin and here is my linkedin id: https://www.linkedin.com/in/satyam-b983311a7
+- 👀 I’m interested in development.
+- 📫 You can send me a mail on 1209satyam@gmail.com or you can connect with me on Linkedin and here is my linkedin id: https://www.linkedin.com/in/satyam-b983311a7
 
 <!---
 
