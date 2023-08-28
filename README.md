@@ -5,7 +5,7 @@ I'm a passionate developer with a strong interest in creating software solutions
 - 🔭 I'm currently working on honing my skills in Java development to build robust and efficient applications.
 - 🌱 I’m continuously learning and expanding my knowledge in various programming languages and technologies.
 - 👯 I enjoy collaborating with fellow developers and contributing to open-source projects that resonate with me.
-- 📫 Feel free to reach out to me via email at 1209satyam@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/satyam-b983311a7). I'm always up for interesting discussions and networking!
+- 📫 Feel free to reach out to me via email at satyam1209@yahoo.com or connect with me on [LinkedIn](https://www.linkedin.com/in/satyam1209). I'm always up for interesting discussions and networking!
 
 ## Technologies and Skills
 
