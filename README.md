@@ -18,9 +18,9 @@ I'm a passionate developer with a strong interest in creating software solutions
 
 ## Projects
 
-- **Project A:** A web application for managing Patient medical test result and PAtient records using PHP, HTML, CSS and MySQL.
-- **Project B:** An e-commerce website template created with HTML, CSS, and JavaScript.
-- **Project C:** A Java-based desktop application for task management and productivity.
+- **Project A:** A web application for managing Patient medical test result and patient records using PHP, HTML, CSS and MySQL.
+- **Project B:** An restaurant website template created with HTML, CSS.
+- **Project C:** A Java-based GUI application to currency rate exchange.
 
 ## Goals
 
