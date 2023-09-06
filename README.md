@@ -10,7 +10,7 @@ I'm a passionate developer with a strong interest in creating software solutions
 ## Technologies and Skills
 
 - **Programming Languages:** Java, Python, PHP
-- **Web Development:** HTML, CSS, JavaScript
+- **Web Development:** HTML, CSS, JavaScript, React, NodeJS
 - **Version Control:** Git
 - **IDEs:** IntelliJ IDEA, Visual Studio Code, Eclipse, Sublime Text, Anaconda Jupyter, PyCharm 
 - **Database:** MySQL
