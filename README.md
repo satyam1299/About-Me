@@ -13,7 +13,7 @@ I'm a passionate developer with a strong interest in creating software solutions
 - **Web Development:** HTML, CSS, JavaScript, React, NodeJS
 - **Version Control:** Git
 - **IDEs:** IntelliJ IDEA, Visual Studio Code, Eclipse, Sublime Text, Anaconda Jupyter, PyCharm 
-- **Database:** MySQL
+- **Database:** MySQL, MongoDB
 - **Operating System:** Windows, Ubuntu 23.04
 
 ## Projects
